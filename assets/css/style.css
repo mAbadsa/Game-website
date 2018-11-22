@@ -42,3 +42,16 @@ header p{
 header .chainessText{
     font-size: 22px;
 }
+marquee{
+    font-size: 16px;
+    color: #fff;
+}
+.marquee{
+    margin-top: 20px;
+    background-color: #610000;
+    font-weight: bold;
+}
+.marquee h5{
+    color: #fff;
+    font-size: 16px;
+}
