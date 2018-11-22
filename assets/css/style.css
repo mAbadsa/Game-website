@@ -45,6 +45,7 @@ header .chainessText{
 marquee{
     font-size: 16px;
     color: #fff;
+    vertical-align: middle;
 }
 .marquee{
     margin-top: 20px;
