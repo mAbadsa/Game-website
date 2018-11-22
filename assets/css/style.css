@@ -1,0 +1,44 @@
+#bg{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    background: url(../img/backgroundPattern.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    z-index: -1;
+}
+.img-fluid{
+    max-width: 150px;
+    max-height: 100px;
+}
+header{
+    margin-top: 50px;
+    width: 100%;
+    background: linear-gradient(to bottom,#160000 14%,#610000 );
+}
+header .title{
+    font-size: 24px;
+    color: #FFFF00;
+    font-style: italic;
+    line-height: 31px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.whitText{
+    color: #fff;
+    text-transform: lowercase;
+    font-size: 31px;
+}
+header p{
+    font-size: 15px;
+    color: #FFFF00;
+    font-style: italic;
+    text-align: center;
+}
+header .chainessText{
+    font-size: 22px;
+}
